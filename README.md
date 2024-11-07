@@ -38,34 +38,44 @@
 <h3 align="left">Skills & Tools:</h3>
 
 <h4>UI/UX Design:</h4>
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 90%; background-color: #4CAF50; height: 20px; border-radius: 5px;"></div>
-</div>
-<p>Proficient in Figma, Adobe XD, Sketch.</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_%28blue%29.svg" alt="UI/UX Design" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Adobe_XD_icon.svg" alt="Adobe XD" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Sketch_Logo.svg" alt="Sketch" height="30" width="40" />
+  Figma, Adobe XD, Sketch
+</p>
 
 <h4>Graphic Design:</h4>
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 85%; background-color: #4CAF50; height: 20px; border-radius: 5px;"></div>
-</div>
-<p>Proficient in Adobe Illustrator, Photoshop, After Effects, Premiere Pro.</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Illustrator_CC_icon.png" alt="Adobe Illustrator" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Photoshop_CC_icon.png" alt="Adobe Photoshop" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Adobe_After_Effects_CC_icon.png" alt="After Effects" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Adobe_Premiere_Pro_CC_icon.png" alt="Premiere Pro" height="30" width="40" />
+  Adobe Illustrator, Photoshop, After Effects, Premiere Pro
+</p>
 
 <h4>Web Development:</h4>
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 75%; background-color: #4CAF50; height: 20px; border-radius: 5px;"></div>
-</div>
-<p>Proficient in React, JavaScript, HTML5, CSS3. Intermediate with Bootstrap, Tailwind CSS.</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg" alt="CSS3" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="30" width="40" />
+  React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+</p>
 
 <h4>AI Enthusiast:</h4>
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 60%; background-color: #4CAF50; height: 20px; border-radius: 5px;"></div>
-</div>
-<p>Passionate about AI integration in design and development.</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/OpenAI_Logo.svg" alt="OpenAI" height="30" width="40" />
+  AI Integration
+</p>
 
 <h4>Version Control:</h4>
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 80%; background-color: #4CAF50; height: 20px; border-radius: 5px;"></div>
-</div>
-<p>Proficient in Git, GitHub.</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Git_logo_2.svg" alt="Git" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/GitHub_Logo_2018.svg" alt="GitHub" height="30" width="40" />
+  Git, GitHub
+</p>
 
 <h3 align="left">Projects & Contributions:</h3>
 - 💻 EcoFurnish: A React-based furniture e-commerce platform with integrated cart, user authentication, and product browsing features.
