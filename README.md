@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Shadin</h1>
-<h3 align="center">A passionate Full stack Developer / UI-UX Designer</h3>
+<h3 align="center">A PASSIONATE UI/UX DESIGNER & WEB DEVELOPER</h3>
 
-- 🔭 I’m currently working on React and React project
+- 🔭 I’m currently working on React E-Commerce Project
 
 - 🌱 I’m currently learning **ASP.Net & C#**
 
