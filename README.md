@@ -27,8 +27,8 @@
   <a href="https://instagram.com/m_shadin.k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_shadin.k" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/m_shadin.k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadin-k" height="30" width="40" />
+  <a href="https://x.com/mshadink" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="shadin-k" height="30" width="40" />
   </a>
   <a href="https://github.com/shadin-ui" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shadin-k" height="30" width="40" />
