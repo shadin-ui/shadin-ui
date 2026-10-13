@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shadin-k">LinkedIn</a> •
-  <a href="https://x.com/mshadink">X</a> •
-  <a href="https://instagram.com/m_shadin.k">Instagram</a>
+  <a href="https://www.instagram.com/by.shadin/">Instagram</a>
 </p>
 
 ---
