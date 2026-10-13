@@ -1,27 +1,84 @@
-<h1 align="center">Hello 👋, I'm Shadin</h1>
-<h3 align="center">A Passionate UI/UX Designer, Web Developer, Graphic Designer, and AI Enthusiast</h3>
+<h1 align="center">Shadin</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on a React E-Commerce Project<br>🌱 I’m currently learning ASP.Net & C#<br>💼 I specialize in Branding, Logo Design, UI/UX Design, Web Development, Graphic Design, and AI Tools.<br>📫 You can reach me via email: mshadink10@gmail.com.
+<h3 align="center">Entrepreneur | Venture Builder | Systems Thinker</h3>
 
+<p align="center">
+  Building ventures, designing business systems, and exploring how technology can create scalable businesses.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_shadin.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadin-k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mshadink) 
+<p align="center">
+  <a href="https://linkedin.com/in/shadin-k">LinkedIn</a> •
+  <a href="https://x.com/mshadink">X</a> •
+  <a href="https://instagram.com/m_shadin.k">Instagram</a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shadin-ui&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadin-ui&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadin-ui&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shadin-ui&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I'm an entrepreneur interested in building and scaling businesses at the intersection of technology, design, and operations.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shadin-ui&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+My focus goes beyond individual projects. I'm interested in the systems behind successful businesses, from operational workflows and SOPs to strategic decision making and scalable business models.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+As a co-founder of **Kerlytix**, I work toward building ventures with a focus on structured execution, operational excellence, and long term growth.
+
+### What I'm Focused On
+
+- **Venture Building:** Developing business ideas into structured, sustainable ventures.
+- **Business Systems:** Designing SOPs, workflows, KPIs, and operational frameworks.
+- **Strategy & Operations:** Exploring business models, competitive positioning, and scalable execution.
+- **Technology:** Using software, AI, and digital tools to solve problems and improve business efficiency.
+- **Design & Experience:** Applying strategic design thinking to products, digital experiences, and business communication.
+
+### My Approach
+
+I believe sustainable businesses are built through clear strategy, strong systems, disciplined execution, and continuous improvement.
+
+I use technology and design as tools to solve problems, create value, and build better businesses.
+
+---
+
+## Current Interests
+
+`Venture Building` · `Business Operations` · `Strategic Design` · `AI & Automation` · `Digital Products` · `Scalable Systems`
+
+## Technology & Tools
+
+**Product & Design**
+
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=flat&logo=adobephotoshop&logoColor=white)
+
+**Development**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=38B2AC)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat&logo=vercel&logoColor=white)
+
+**Business & Productivity**
+
+Interested in business process design, operational documentation, AI assisted workflows, and tools that help businesses run more effectively.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadin-ui&show_icons=true&hide_border=true&theme=transparent" alt="Shadin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadin-ui&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building with intent. Thinking in systems. Growing through execution.</i>
+</p>
